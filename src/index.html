@@ -1,15 +1,52 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet"  type="text/css" href="style.css">
+</head>
+<body>
+        
+<header>
+
+    <h1 id="title">Bienvenidos a Secret messages</h1>
+  
+    <p>puedes ingresar el texto en la casilla.</p>
+     <p>  Luego ingresa el numero en la siguiente casilla</p> 
+     <p> luego el boton encriptar y desencriptar obteniendo  asi tu mensaje secreto</p> 
+</header>
+
+    <section> 
+        <div class="section_botones">
+         <textarea id="textencrypted" cols="30" rows="10" placeholder="escribe tu mensaje aqui"></textarea>
+        </div>
+
+        <div class="btn_number">
+        <input type="number" id="offset">
     </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+
+        <div class="btn_code">
+            <button id="btncode">encriptar</button>
+            <button id="btndecode">desencriptar</button>
+
+        </div>
+    
+      </section>
+    <div class="message">
+        <p>Aqui podras ver tu resultado</p>
+        <p id="final message"></p>
+    </div>
+
+
+<footer></footer>
+</body>
+
+
+<script src="cipher.js"></script>
+<script src="index.js"></script>
 </html>
+
+
+
