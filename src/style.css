@@ -34,6 +34,17 @@ p{
 }
     
 .btn_code{
+    display: flex;
+    justify-content: center;
+margin-top: 30px;
+padding: 10px;
+  margin: 10px;
+}
+ #btncode{
+   width: 150px;
+   display: block;
+   background: linear-gradient(50deg,#4a7ff7,#f52fcf);
+   padding: 10px 20px;
 text-align: center;
 margin-top: 20px;
 
