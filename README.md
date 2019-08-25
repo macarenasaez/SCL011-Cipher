@@ -1,3 +1,105 @@
+## proyecto César
+
+la tematica de nuestra aplicación se vaso en 
+el codigo césar .
+
+### Aqui les dejamos una informacion sobre elcifrado césar:
+
+Cifrado significa codificar. El [Cifrado César]
+es uno de los primeros metodos de Cifrado
+conocidos. El  emperador romano julio César lo
+usaba para enviar órdenes secretas a sus generales
+en los campos de batallas.
+
+[El Cifrado César] es una de las técnicas
+más simples para cifrar un mensaje.Es un tipo
+de Cifrado por sustitución, es reemplazada por
+otra que se encuentra un número fijo 
+de posiciones (desplazamiento) más adelante 
+en el mismo alfabeto.
+
+
+Por ejemplo, si usamos un desplazamiento
+de 3 posiciones:
+
+-La letra A se cifra como D.
+-La palabra CASA se cifra como FDVD
+-Alfabeto sin cifrar:A B C D E F G H I J K L M N O P Q 
+R S T U V W X Y Z
+-Alfabeto Cifrado: D E F G H I J K L M N O P Q 
+R S T U V W X Y Z A B C 
+
+En la actualidadaa, todo los cifrados de
+sustitución simples se descifran con mucha 
+facilidad y aunque en la practica no ofrscan mucha
+seguridad en la comunicación por sí mismo; el Cifrado
+César sí puede formar parte de sistemas más 
+complejos de codificación, como el cifrado Vigenere,
+e incluso tiene aplicaciones en el sistema ROT13.
+
+## Considerasiones generales 
+
+la aplicación se dirije a niñas y niños adolecentes 
+entre la edad de 10 a 17 años para que aprendan un leguaje de 
+cleves y mensajerias secretas 
+
+## Primera etapa del proyecto
+
+*Imagenes  del flujo
+
+[al text](https://ibb.co/FJmgdb6)
+[al text](https://ibb.co/DKWSh6Z)
+
+Que nos sirbio para la definicion del producto
+en el cual queriamos desarrollar.
+
+
+## Imagenes del maquetado
+
+[al text](https://ibb.co/kXgMxJq)
+[al text](https://ibb.co/qdKs8y3)
+
+- Aqui nos sirbio para poder hacer
+la interfas de usuario, que permite 
+ingresar un mensaje  un desplasamiento 
+numero indicando cuantas 
+posiciones queremos que el cifrado desplace .
+
+-Insertar el texto (mensaje del usuario)el cual queremos cifrar
+-Insetar el numero (que ingresa el usuario)para que nos recorra
+-Ver el resultado final del mensaje decifrado.
+
+## Imagenes del producto final 
+
+[al text](https://ibb.co/M92YSJs)
+[al text](https://ibb.co/5sDWNw0)
+
+- Aqui se puede ver como nos quedo el producto 
+- nombre de la aplicación "secret menssges".
+Diseñado para niños y niñas de entre 10 a 17 años
+quienes nos dijeron que les gusto mucho y que estaba super
+"bakan" y que era super entretenido y muy facil de utilizar
+- Con una pequeña instrucción muy facil de entender
+
+
+### Aqui las niñas haciendo una prueba de usabilidad  
+
+- Les dejamos unas Imagenes
+
+[al texto](https://ibb.co/cxrr0Yh)
+[al text](https://ibb.co/nbDPFr9)
+[al text](https://ibb.co/99rNZZg)
+
+Los niños en general nos dijeron que el producto estaba 
+super bien y que les gusto mucho que era muy facil de usar 
+que no lo modificarian que estaba bien  la aplicación
+de mensajeria en secretos para conversa en secretos con las 
+amigas y amigos nos parece interesantes que la alpicación 
+es muy censilla les gusto mucho y nos dejo muy contentos .
+
+
+
+
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
